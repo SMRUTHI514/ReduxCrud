@@ -1,0 +1,31 @@
+*{
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+.hero{
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.entry{
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+.edit{
+  background-repeat: no-repeat;
+  background-size:contain;
+  
+}
+.add{
+  background-repeat: no-repeat;
+  background-size:contain;
+}
+
+.name h1{
+  font-size: 60px;
+  color:white;
+  text-shadow: 3cm;
+  font-weight: 550;
+}
+
