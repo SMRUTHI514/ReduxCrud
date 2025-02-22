@@ -14,7 +14,7 @@ function Dashboard() {
 
     return (
         <>
-            <div className='container-fluid  entry' style={{ height: '100vh', backgroundImage: `url("https://img.freepik.com/free-photo/businessman-application-human-digital-business_1150-1729.jpg?t=st=1740020942~exp=1740024542~hmac=bdf9077da2135f85a5c9f84aefcc924c09887549541d7671325ca60e48374f32&w=996")` }}>
+            <div className='container-fluid  entry' style={{ height: '100vh', backgroundImage: `url("https://images.unsplash.com/photo-1511984804822-e16ba72f5848?q=80&w=2048&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D")` }}>
                 <div className=" text-light">
                     <h2 className='bg-info p-3'>Employees Details</h2>
                     <AddEmployee />

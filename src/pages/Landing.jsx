@@ -4,9 +4,9 @@ import { Link } from 'react-router-dom'
 function Landing() {
   return (
     <>
-      <div className="container-fluid d-flex justify-content-center align-items-center hero" style={{ height: '100vh',backgroundImage:`url("https://img.freepik.com/free-photo/medium-shot-happy-people-working_23-2149300698.jpg?t=st=1740018760~exp=1740022360~hmac=ae7db31c5330bf7d6705d4e2f57ac6efd71b5b825ade7e0f8e4a93259b7364a7&w=996")` }}>
+      <div className="container-fluid d-flex justify-content-center align-items-center hero" style={{ height: '100vh',backgroundImage:`url("https://images.unsplash.com/photo-1553877522-43269d4ea984?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D")` }}>
         <div className='row '>
-          <div className="col  d-flex justify-content-center align-items-center name border border-2  ">
+          <div className="col  d-flex justify-content-center align-items-center name border border-4  ">
             <h1>NEXORA SOLUTIONS</h1>
           </div>
           <div className='d-flex justify-content-center align-items-center'>

@@ -30,7 +30,7 @@ function EditEmployee({ employees }) {
                 <i className="fa-solid fa-pen-to-square text-warning fa-lg"></i>
             </button>
 
-            <Modal show={show} onHide={handleClose} backdrop="static" keyboard={false}>
+            <Modal show={show} onHide={handleClose} backdrop="static" keyboard={false} className='edit' style={{ backgroundImage: `url("https://d1nhio0ox7pgb.cloudfront.net/_img/v_collection_png/512x512/shadow/businessman_edit.png")` }}>
                 <Modal.Header closeButton>
                     <Modal.Title>Edit Employee</Modal.Title>
                 </Modal.Header>
